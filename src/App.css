@@ -28,6 +28,14 @@
   color: #61dafb;
 }
 
+.title {
+  font-size: 60px;
+}
+
+.logo {
+  max-height: 100px;
+}
+
 .worker-pic {
   max-height: 200px;
 }
